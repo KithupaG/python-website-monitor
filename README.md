@@ -16,4 +16,4 @@ EMAIL_PASSWORD=
 SSH_KEY_PATH=
 
 3. Run:
-python monitor-website.py
+`python monitor-website.py`
